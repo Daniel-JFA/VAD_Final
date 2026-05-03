@@ -1,4 +1,4 @@
-# VotaPP Pro - Simulador Big Data de votacion participativa
+# Simulador votos - Simulador Big Data de votacion participativa
 
 VotaPP Pro es un proyecto academico que simula una plataforma de votacion participativa para Medellin. El objetivo no es solamente crear registros, sino mostrar un ciclo Big Data completo: ingesta, almacenamiento transaccional, procesamiento batch con Spark, Data Lake por capas, dashboard operativo y visualizacion territorial.
 
